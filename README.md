@@ -1,8 +1,6 @@
-# libigl example project
+# Use libigl
 
-A blank project example showing how to use libigl and cmake. Feel free and
-encouraged to copy or fork this project as a way of starting a new personal
-project using libigl.
+We reconstruct smooth surfaces from the point cloud data using the RBF interpolation. We  also optimize the code for the large data sets using the center reduction technique where we can reconstruct reasonable good surfaces from large data sets just by taking a subset from the initial data set. 
 
 ## See the tutorial first
 
